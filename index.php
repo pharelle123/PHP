@@ -24,12 +24,14 @@
 
     <!-- header -->
 	<main>
+
         <?php
          include_once __DIR__.'/partial/main.inc.php';
          #main
         ?>
     
 	</main>
+    
     <?php
        include_once __DIR__.'/partial/footer.inc.php';
        #footer
